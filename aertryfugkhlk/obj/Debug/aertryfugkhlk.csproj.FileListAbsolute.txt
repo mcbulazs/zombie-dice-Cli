@@ -1,0 +1,7 @@
+D:\Házi\aertryfugkhlk\bin\Debug\aertryfugkhlk.exe.config
+D:\Házi\aertryfugkhlk\bin\Debug\aertryfugkhlk.exe
+D:\Házi\aertryfugkhlk\bin\Debug\aertryfugkhlk.pdb
+D:\Házi\aertryfugkhlk\obj\Debug\aertryfugkhlk.csprojAssemblyReference.cache
+D:\Házi\aertryfugkhlk\obj\Debug\aertryfugkhlk.csproj.CoreCompileInputs.cache
+D:\Házi\aertryfugkhlk\obj\Debug\aertryfugkhlk.exe
+D:\Házi\aertryfugkhlk\obj\Debug\aertryfugkhlk.pdb
